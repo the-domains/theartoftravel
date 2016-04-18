@@ -1,0 +1,28 @@
+name: theartoftravel
+favicon: null
+layout_spectrum: 0.4787805341184139
+typography_spectrum: 0.42389139928855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8532741437666118
+  lightness: 0.6014748809393495
+  saturation: 0.7559296344406903
+  rhythmicContrast: 0.41047279816120863
+purpose: []
