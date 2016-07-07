@@ -1,7 +1,7 @@
 name: theartoftravel
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.62231
+layout_spectrum: 0.76335
+typography_spectrum: 0.73619
 title: The Art of Travel
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6875
+    - '#e5e5e5'
+    - '#363636'
+    - '#181818'
+    - '#606060'
+    - '#a8a8a8'
+  brandStrength: 0.5
   lightness: 0.6014748809393495
-  saturation: 0.7559296344406903
-  rhythmicContrast: 0.41047279816120863
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
